@@ -1,13 +1,15 @@
 {
   "name": "hermione-selenium-standalone-runner-pack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Package to automatic run selenium-standalone server",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/Ali-Gator/hermione-selenium-standalone-runner-pack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Gator/hermione-selenium-standalone-runner-pack"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["hermione", "selenium"],
+  "author": "Oleg Gordienov <ogordienov@yandex.ru",
   "license": "ISC",
   "devDependencies": {
     "rxjs": "^7.5.7"
